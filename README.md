@@ -231,7 +231,13 @@ Dashboard will load automatically.
 Smart Plant Stress Detection and Automatic Irrigation with IoT Cloud & Analytics
 Nanochip Mini Project | ECE Department
 
-📷 Screenshots (Optional)
+📷 Screenshots
+
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/f6484fec-8aba-4f96-9671-93014046cda6" />
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/ecc8ed33-9315-46d9-9a60-fba8590daa5e" />
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/32818dfa-3d7a-4525-bb18-923d29446c97" />
+<img width="1280" height="960" alt="image" src="https://github.com/user-attachments/assets/52de9e17-c768-4e72-8259-b6abc82e72f1" />
+
 
 (Add your dashboard images here)
 
